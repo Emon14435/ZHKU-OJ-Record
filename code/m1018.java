@@ -8,7 +8,6 @@ public class m1018 {
         Scanner sc = new Scanner(System.in);
         while(sc.hasNextInt()){
             n = sc.nextInt();
-            for()
             for(int i = n; i <= n; i--) {
                 System.out.printf("* ");
             }
