@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class m1092 {
     public static void main(String[] args) {
+        //Accepted
         Scanner in = new Scanner(System.in);
         int p = 0;
         int f = 0;

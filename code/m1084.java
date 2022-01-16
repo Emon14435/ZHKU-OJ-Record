@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class m1084 {
     
     public static void main(String args[]){
+        //Accepted
         Scanner sc = new Scanner(System.in);
 
         int n;

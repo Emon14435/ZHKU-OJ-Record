@@ -3,6 +3,7 @@ package OJ;
 import java.util.Scanner;
 
 public class m1017 {
+    //Accepted
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;

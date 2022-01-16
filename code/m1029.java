@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class m1029 {
 
     public static void main(String[] args) {
+        //Accepted
         Scanner in=new Scanner(System.in);
 
         while(in.hasNextInt()) {

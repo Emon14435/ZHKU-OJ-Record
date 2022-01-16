@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class m1015 {
     public static void main(String[] args) {
+        //Accepted
         Scanner in = new Scanner(System.in);
         while (in.hasNextInt()) {
             int tmp1 = in.nextInt();
